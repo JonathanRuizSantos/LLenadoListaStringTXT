@@ -1,0 +1,35 @@
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\bin\Debug\net6.0-windows\llenadoArgumentoString.exe
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\bin\Debug\net6.0-windows\llenadoArgumentoString.deps.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\bin\Debug\net6.0-windows\llenadoArgumentoString.runtimeconfig.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\bin\Debug\net6.0-windows\llenadoArgumentoString.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\bin\Debug\net6.0-windows\llenadoArgumentoString.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.Form1.resources
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.AssemblyInfoInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.AssemblyInfo.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\refint\llenadoArgumentoString.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\llenadoArgumentoString.genruntimeconfig.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\llenadoArgumentoString\obj\Debug\net6.0-windows\ref\llenadoArgumentoString.dll
+E:\Codigos\06_Personales_C#\LLenadoListaString\bin\Debug\net6.0-windows\llenadoArgumentoString.exe
+E:\Codigos\06_Personales_C#\LLenadoListaString\bin\Debug\net6.0-windows\llenadoArgumentoString.deps.json
+E:\Codigos\06_Personales_C#\LLenadoListaString\bin\Debug\net6.0-windows\llenadoArgumentoString.runtimeconfig.json
+E:\Codigos\06_Personales_C#\LLenadoListaString\bin\Debug\net6.0-windows\llenadoArgumentoString.dll
+E:\Codigos\06_Personales_C#\LLenadoListaString\bin\Debug\net6.0-windows\llenadoArgumentoString.pdb
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.AssemblyReference.cache
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.Form1.resources
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.Properties.Resources.resources
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.GenerateResource.cache
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.AssemblyInfoInputs.cache
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.AssemblyInfo.cs
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.csproj.CoreCompileInputs.cache
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.dll
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\refint\llenadoArgumentoString.dll
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.pdb
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\llenadoArgumentoString.genruntimeconfig.cache
+E:\Codigos\06_Personales_C#\LLenadoListaString\obj\Debug\net6.0-windows\ref\llenadoArgumentoString.dll

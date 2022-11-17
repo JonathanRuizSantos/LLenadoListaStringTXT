@@ -1,0 +1,6 @@
+"gato",
+"perro",
+"lombriz",
+"loro",
+"gallina",
+"avion","coche","lago","londes","","","","","","","","","","","","","asdas",
