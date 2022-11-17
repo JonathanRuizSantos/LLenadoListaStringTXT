@@ -12,7 +12,7 @@ CompuTech  | Jonathan RS. | scompu90@gmail.com
 ## Acerca de
 En este programa la idea es facilitar el trabajo al programador llenando las listas necesarias con solo introducir la palabra y que estas se vallan guardando con el formato adecuado en un archivo de texto con extension .txt
 
-## Visualizacion
+## Visualización
 
 ### Ventana principal
 ![](https://github.com/JhonRS1800/LLenadoListaStringTXT/blob/master/Screen1.jpg)
